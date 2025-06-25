@@ -36,8 +36,7 @@ A simple **Command-Line Interface (CLI)** based CRUD application built using **J
 ## 📸 Sample Output
 ![image ult](https://github.com/vedant1352/Student-Management-System/blob/3e2b4247f433e5d0bbd2907618815d4537600031/Screenshot%202025-06-25%20171005.png)
 ![image ult](https://github.com/vedant1352/Student-Management-System/blob/a615425f00c3364835faa0634600212c734aa620/Screenshot%202025-06-25%20171015.png)
-![image ult](https://github.com/tanu-pande/Student-Management-System/blob/0dba4ac24e4e0f325f6e5051508b2ff83a16e5f6/Screenshot%202025-06-25%20164215.png)
-
+![image ult](https://github.com/vedant1352/Student-Management-System/blob/31c533f01774d145d2f2c9b64a3af2fd75695d5e/Screenshot%202025-06-25%20171033.png)
 ---
 
 ## 💡 Learning Outcomes
